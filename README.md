@@ -1,4 +1,4 @@
-#  NFT Collection
+#  BokkaBeeNFTs Collection
 
 ### Hello Everyone! You can find a video of my demonstrating my project below so definitely check it out!
 
