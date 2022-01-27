@@ -7,6 +7,7 @@
 ### What did I exactly do?
 
 I developed NFTs depicting bees and deployed them on Ethereum Rinkeby Network using HardHat.
+
 I constructed contracts with Solidity and remodeled a React.js front end to deploy NFTs with Metamask.
 
 ### If you want to run locally...
