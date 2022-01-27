@@ -1,6 +1,6 @@
 #  NFT Collection
 
-## Hello Everyone! You can find a video of my demonstrating my project below so definitely check it out!
+### Hello Everyone! You can find a video of my demonstrating my project below so definitely check it out!
 
 ### https://youtu.be/S9WRpsF_nAI
 
