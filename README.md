@@ -1,6 +1,10 @@
 #  BokkaBeeNFTs Collection
 
-### Hello Everyone! You can find a video of my demonstrating my project below so definitely check it out!
+### Hello Everyone! Get a Metamask account and get some free Ethereum Rinkeby here to use my site:
+
+### https://bokka-bee-nfts.herokuapp.com/
+
+### You can also find a video of my demonstrating my project below so definitely check it out!
 
 ### https://youtu.be/S9WRpsF_nAI
 
