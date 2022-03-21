@@ -156,7 +156,7 @@ const App = () => {
             target="_blank"
             rel="noreferrer"
           >{`built by Abhitej and made possible by ${TWITTER_HANDLE}	`}</a>
-	  
+	  "aa"
 	  <a
             className="footer-text"
             href={'https://github.com/abhitej-bokka/BokkaBeeNFTs/'}
