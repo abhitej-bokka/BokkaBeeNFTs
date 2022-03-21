@@ -155,14 +155,14 @@ const App = () => {
             href={'https://abhitej-bokka.github.io/'}
             target="_blank"
             rel="noreferrer"
-          >{`built by Abhitej and made possible by ${TWITTER_HANDLE}`}</a>
+          >{`built by Abhitej and made possible by ${TWITTER_HANDLE}	`}</a>
 	  
 	  <a
             className="footer-text"
             href={'https://github.com/abhitej-bokka/BokkaBeeNFTs/'}
             target="_blank"
             rel="noreferrer"
-          >{`Need Help Minting?`}</a>
+          >{`	Need Help Minting?`}</a>
 	  
 	  
         </div>
